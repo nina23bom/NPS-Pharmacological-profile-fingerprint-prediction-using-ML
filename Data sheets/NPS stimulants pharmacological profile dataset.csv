@@ -1,0 +1,73 @@
+,name,cid,Liechti_chem_class,Sub_chem_class,Liechti_pharm_class,pharm_lite,NET,DAT,SERT,NET_B,DAT_B,SERT_B,5-HT1A,5-HT2A,5-HT2C,alpha 1A,alpha 2A,D1,D2,D3,H1,TAAR1RAT,TAAR1MOUSE,full_name
+0,Cathinone,62258,Cathinones,Cathinones,stimulants,"Simmler et al., 2013",0.199,14,>100,3.5,19.8,>30,>20,>13,>13,5.4,8.9,>13.6,>30,>17.7,>14.4,2.2,2.1,
+1,Methcathinone,1576,Cathinones,Cathinones,stimulants,"Rickli et al., 2015a",0.12,2.4,46,1.45,1.28,>30,12.8,3,>13,3.93,11.9,>12,>30,>9,>13,4.1,>10,
+2,Buphedrone,53249194,Cathinones,Cathinones,stimulants,"Simmler et al., 2014a",0.65,4.24,70,4.7,1.2,29.2,>18,>13,>13,>6,23.9,>12.5,>10,>16,>13,>10,>10,
+3,Pentedrone,57501499,Cathinones,Cathinones,stimulants,"Simmler et al., 2014a",0.61,2.5,135,4.5,0.34,17.3,>18,>13,>13,>6,35.4,>12.5,>10,>16,>13,>10,>10,
+4,Ethcathinone,458519,Cathinones,Cathinones,stimulants,"Simmler et al., 2014a",0.44,5,48,0.22,0.88,37.6,8.5,>13,>13,>6,15.5,>12.5,>10,>16,>13,>10,>10,
+5,"N,N-Dimethylcathinone",13110870,Cathinones,Cathinones,stimulants,"Simmler et al., 2014a",7.71,27,>500,23.8,4.7,>30,>18,6.5,6.5,>6,25.4,>12.5,>10,>16,>13,>10,>10,
+6,4-Methylethcathinone,52988259,Cathinones,Mephedrone,stimulants,"Simmler et al., 2014a",2.23,4.28,7.93,6.8,0.89,7.7,>20,3.8,5.2,>6,>18,>12.5,>10,>16,>13,>10,>10,4-MEC
+7,3-MMC,71741532,Cathinones,Mephedrone,stimulants,"Luethi et al., 2018c",0.27,2.6,9.5,5.6,3.2,>22,4.8,3.4,3.6,7.9,1.1,,>12,,,5.7,10,3-Methyl-N-methylcathinone
+8,Mephedrone,45266826,Cathinones,Mephedrone,stimulants,"Luethi et al., 2018c",0.26,5.7,3.6,>26,3.4,>30,>17,1.6,8.1,1.1,11,,>11,,,5,12,"4-methylmethcathinone, 4-MMC"
+9,4-Ethylmethcathinone,71316576,Cathinones,Mephedrone,stimulants,"Rickli et al., 2015a",2.5,31,4.3,16.2,28,17.5,>20,6.5,9.6,8.4,21.1,>12,>10,>17,>13,>20,>20,4-EMC
+10,"2,3-DMMC",91693751,Cathinones,Mephedrone,stimulants,"Luethi et al., 2018c",0.53,7.4,1.2,8.4,4.2,6.1,>17,0.64,2.4,0.78,3,,>11,,,1.2,0.88,
+11,"3,4-DMMC",52988261,Cathinones,Mephedrone,stimulants,"Luethi et al., 2018c",0.45,9.4,1.1,12,7.6,5.7,>17,1.9,1.5,1.9,3.5,,>11,,,2.6,4.5,
+12,"2,4-DMMC",82100563,Cathinones,Mephedrone,stimulants,"Luethi et al., 2018c",1.5,83,1.5,>26,>26,17,15,1.3,1.3,0.16,3,,>11,,,0.59,3.1,
+13,3-Fluoromethcathinone,53415330,Cathinones,Methcathinone,stimulants,"Simmler et al., 2014a",0.19,1.7,56,>30,1.9,36.1,>18,>13,6.1,>6,10,>12.5,>10,>16,>13,>10,5.8,3-FMC
+14,4-Fluoromethcathinone,49853406,Cathinones,Methcathinone,stimulants,"Rickli et al., 2015a",0.36,14,49,>25,12.2,>30,>20,1.4,>13,1.52,>20,>12,>30,>17,>13,5.4,>10,"4-FMC, flephedrone"
+15,4-Bromomethcathinone,10421832,Cathinones,Methcathinone,stimulants,"Rickli et al., 2015a",0.41,5.6,2.2,6.5,3.6,8.3,>20,3.3,>13,8.2,12.7,>12,>10,>17,2.1,1.8,12.9,"4-BMC, Brephedrone"
+16,Methedrone,216281,Cathinones,Methcathinone,stimulants,"Simmler et al., 2014a",2.24,35,4.73,15.6,20.7,25.7,>20,>13,>13,>6,>25,>12.5,>10,>16,>13,>10,>10,
+17,"3,4-methylenedioxycathinone",57465250,Cathinones,methylenedioxy-cathinones,stimulants,"Rickli et al., 2015b",1.6,14,21,>30,11,>30,>17,>13,>13,>5,15,>12,>20,>17,>13,4.8,6.5,BK-MDA
+18,Butylone,56843046,Cathinones,methylenedioxy-cathinones,stimulants,"Simmler et al., 2013",2.02,2.9,6.22,0.44,14.1,>20,>13,>13,>13,>6,>25,>12.5,,>16,>13,>12.5,>10,β-keto-N-methylbenzodioxolylbutanamine
+19,Ethylone,57252245,Cathinones,methylenedioxy-cathinones,stimulants,"Simmler et al., 2013",2.54,5.68,4.46,9.89,1.43,9.04,17,>13,>13,>6,>25,>12.5,,>16,>13,>12.5,>10,"3,4-methylenedioxy-N-ethylcathinone"
+20,Methylone,45789647,Cathinones,methylenedioxy-cathinones,stimulants,"Simmler et al., 2013",0.54,4.8,16,>25,2.73,>30,>20,>13,>13,>6,>20,>13.6,>30,>9.2,>14.4,>12.5,>10,"3,4-methylenedioxy-N-methylcathinone"
+21,Pentylone,60208608,Cathinones,methylenedioxy-cathinones,stimulants,"Simmler et al., 2014a",0.99,1.34,8.37,9,0.24,2,>18,>13,>13,>6,>25,>12.5,>10,>16,>13,>10,>10,β-Keto-Methyl​benzo​dioxolyl​pentanamine
+22,MDPBP,71300672,Cathinones,Pyrovalerone (methylenedioxy),stimulants,"Rickli et al., 2015a",0.16,0.11,15,1.1,0.02,4.1,13,>13,>13,>4.9,9.4,>12,>20,>17,>13,>20,>20,
+23,MDPPP,6430845,Cathinones,Pyrovalerone (methylenedioxy),stimulants,"Rickli et al., 2015a",0.97,0.53,75,3.5,0.18,11.7,2.5,7.5,>13,>15,13.9,>12,>10,>17,8.7,16.1,>20,
+24,MDPV,20111961,Cathinones,Pyrovalerone (methylenedioxy),stimulants,"Rickli et al., 2015a",0.04,0.05,9.6,0.08,0.01,2.9,10.3,>13,>13,>6,>20,>12,>30,>9,>13,7.2,>10,
+25,Naphyrone,11243002,Cathinones,Pyrovalerone,stimulants,"Rickli et al., 2015a",0.11,0.22,0.8,0.18,0.04,0.18,6,11.7,>13,>20,7.8,>12,>20,>17,2.3,>20,>20,
+26,alpha-Pyrrolidinovalerophenone,11148955,Cathinones,Pyrovalerone,stimulants,"Rickli et al., 2015a",0.02,0.04,>100,0.06,0.007,>30,5.2,>13,>13,>15,31.7,>12,>10,>17,>13,16.3,>20,α-PVP
+27,Pyrovalerone,14373,Cathinones,Pyrovalerone,stimulants,"Rickli et al., 2015a",0.043,0.035,13,0.06,0.03,5,13.4,>13,>13,>6,>20,>12,>30,>9,10.7,>12,>10,
+28,2-aminoindane,76310,Aminoindanes,Aminoindanes,stimulants,"Simmler et al., 2014b",0.54,58,>100,20,21,>30,4,>12,>12,>6,0.45,>12,>10,7.6,>13,0.31,2.1,2-AI
+29,N-methyl-2-aminoindane,15023225,Aminoindanes,Aminoindanes,stimulants,"Luethi et al., 2018c",2.4,90,223,>30,>30,>30,3.6,5.4,>15,>12,0.49,,>25,,,0.53,2.6,N-methyl-2-AI
+30,5-IAI,131506,Aminoindanes,Aminoindanes,stimulants,"Simmler et al., 2014b",0.76,23,2.5,6.3,5.6,34,0.28,0.73,1.2,>6,0.87,>12,1.2,0.68,7.4,0.03,1.1,5-iodoaminoindane
+31,MMAI,131575,Aminoindanes,Aminoindanes,stimulants,"Luethi et al., 2018c",3.6,193,0.68,>26,>26,11,1.6,8.3,5.4,4,1,,>11,,,0.14,4.9,5-Methoxy-6-methyl-2-aminoindan
+32,MDAI,125558,Aminoindanes,Aminoindanes (methylenedioxy),stimulants,"Simmler et al., 2014b",0.65,31,8.3,18,12,22,>17,>12,>12,>6,1.36,>12,>10,14,>13,0.57,1.8,"3,4-Methylenedioxyaminoindan"
+33,4-(2-Aminopropyl)benzofuran,10130546,Benzofurans,Benzofurans,stimulants,"Rickli et al., 2015b",0.24,12,5.5,3.9,7.4,7.7,1.2,0.96,0.06,12,0.87,>14,>10,>17,16,0.11,2.08,4-APB
+34,5-(2-Aminopropyl)benzofuran,9837232,Benzofurans,Benzofurans,stimulants,"Rickli et al., 2015b",0.16,6.1,0.29,3.1,2.6,3.2,3.3,0.84,0.88,3.5,2.9,>14,>10,>17,8.4,0.04,0.11,5-APB
+35,6-(2-Aminopropyl)benzofuran,9794343,Benzofurans,Benzofurans,stimulants,"Rickli et al., 2015b",0.19,3.3,0.93,1.8,0.6,12,1.5,0.97,0.27,7.3,0.38,>14,>10,>17,15,0.05,0.06,6-APB
+36,7-(2-Aminopropyl)benzofuran,10130548,Benzofurans,Benzofurans,stimulants,"Rickli et al., 2015b",0.27,20,13,5.3,14,14,0.28,0.91,3.3,9.6,0.14,>14,8.2,>17,25,0.07,0.13,7-APB
+37,5-EAPB,102336590,Benzofurans,Benzofurans,stimulants,"Rickli et al., 2015b",0.56,4.9,0.72,1,0.34,0.52,3.1,2.7,4.6,3.3,2.7,16,>10,>17,2.4,0.81,>15,5-(2-ethylaminopropyl)benzofuran
+38,"5-(2-Aminopropyl)-2,3-dihydrobenzofuran",192601,Benzofurans,Benzofurans,stimulants,"Rickli et al., 2015b",0.29,49,0.58,28,>30,4,20,3.4,0.06,11,4.2,>14,>10,>17,21,0.49,0.77,5-APDB
+39,"6-(2-Aminopropyl)-2,3-dihydrobenzofuran",192599,Benzofurans,Benzofurans,stimulants,"Rickli et al., 2015b",0.56,33,2.3,18,>30,23,9.2,2,0.06,>15,0.65,>14,>10,>17,>25,1,0.21,6-APDB
+40,"1-(2,3-Dihydrobenzofuran-5-yl)-N-methylpropan-2-amine",112500533,Benzofurans,Benzofurans,stimulants,"Rickli et al., 2015b",0.96,77,1.2,26,>30,6.3,26,48,0.1,4.9,6.4,23,>10,>17,4.9,0.67,3.5,5-MAPDB
+41,"3,4-Methylenedioxyamphetamine",1614,Phenethylamines,methylenedioxy-amphetamines,stimulants,"Rickli et al., 2015b",0.42,20.5,4.9,13,>26,5.6,4.9,3.3,3,>5,1.1,>12,>20,>17,>13,0.25,0.16,bk-MDA
+42,MBDB,124844,Phenethylamines,methylenedioxy-amphetamines,stimulants,"Simmler et al., 2013",2.8,22,2.04,11.9,3.1,5.8,15.5,6.62,>13,>6,16.9,>12.5,,>16,>13,1.2,3.6,"3,4-Methylenedioxyphenyl-N-methyl-2-butanamine"
+43,MDEA,105039,Phenethylamines,methylenedioxy-amphetamines,stimulants,"Simmler et al., 2013",1.02,9.3,1.27,6.17,1.35,4.32,18.8,>13,>13,>6,12.2,>12.5,,>16,>13,0.32,4.9,"3,4-Methylenedioxy-N-ethylamphetamine"
+44,MDMA,1615,Phenethylamines,methylenedioxy-amphetamines,stimulants,"Rickli et al., 2015b",0.45,17,1.4,27,8.4,13,12.2,7.8,>13,>5,15,>12,>20,>17,>13,0.37,2.4,"3,4-Methyl​enedioxy​methamphetamine"
+45,Ephedrine,9294,Phenethylamines,Non para-amphetamines,stimulants,"Rickli et al., 2015a",0.32,46,230,>30,>30,>30,>20,>13,3.3,>12,4.1,>12,>25,>17,>13,3.7,>14.6,
+46,d-Amphetamine,5826,Phenethylamines,Non para-amphetamines,stimulants,"Rickli et al., 2015a",0.07,1.3,45,1,5.7,>25,6.7,>13,>13,>6,2.8,>12,>30,>17,>13,0.23,0.09,
+47,d-Methamphetamine,10836,Phenethylamines,Non para-amphetamines,stimulants,"Rickli et al., 2015a",0.14,1.1,18,3,1.8,24.6,8.1,>13,>13,>6,6.1,>12,>30,>17,>13,0.35,0.55,
+48,N-Ethylamphetamine,9982,Phenethylamines,Non para-amphetamines,stimulants,"Simmler et al., 2014a",0.2,5.86,8.77,>30,1,26.4,3.4,>13,6,>6,2.9,>12.5,>10,>16,>13,2.5,>10,
+49,para-Methoxyamphetamine,31721,Phenethylamines,Para-amphetamines,stimulants,"Simmler et al., 2014a",0.8,71,2.37,15.6,18.5,7.1,>20,11.2,>13,>6,>25,>12.5,6.4,>16,>13,0.66,0.14,PMA
+50,p-Methoxymethamphetamine,90766,Phenethylamines,Para-amphetamines,stimulants,"Simmler et al., 2014a",1.2,49,1.77,13.7,24.5,11.7,>20,13.6,>13,>6,>25,>12.5,10.1,14,>13,1.25,0.26,PMMA
+51,4-MTA,151900,Phenethylamines,Para-amphetamines,stimulants,"Simmler et al., 2014a",1.52,22,0.54,1.2,6.8,28,>18,1.5,1.8,>6,7.4,>12.5,>10,>16,>13,0.28,0.04,4-Methylthioamphetamine
+52,4-Fluoroephedrine,76974173,Phenethylamines,Para-amphetamines,stimulants,"Rickli et al., 2015a",4.5,163,134,17.6,27.7,39,>17,>12.5,3.7,>4.9,8.4,>12,>20,>17,>13,2.6,17.6,
+53,4-Fluoroamphetamine,9986,Phenethylamines,Para-amphetamines,stimulants,"Rickli et al., 2015a",0.2,3.7,19,13.5,11,32,4.4,11.3,7.8,>4.9,4.4,>12,>20,>17,>13,0.08,0.3,4-FA
+54,4-Fluoromethamphetamine,11745017,Phenethylamines,Para-amphetamines,stimulants,"Rickli et al., 2015a",0.22,7.7,8.7,9,10.8,35,5,3.8,9.5,>4.9,2.6,>12,>20,>17,7.1,0.24,1.7,
+55,4-Methylamphetamine,199116,Phenethylamines,Para-amphetamines,stimulants,"Luethi et al., 2018c",0.31,5.6,0.82,9.4,9.4,13,18,3.3,6.3,>12,2.1,,>25,,,0.1,0.15,4-MA
+56,BENZYLPIPERAZINE,75994,Piperazines,Piperazines,stimulants,"Simmler et al., 2014b",0.41,17,57,8.1,11,24,> 17,>12,>12,>6,16,>12,>10,>16,>13,>10,>10,BZP
+57,m-CPP,1355,Piperazines,Piperazines,stimulants,"Simmler et al., 2014b",1.67,31,1.2,3,5.8,0.63,0.14,0.06,0.13,0.52,0.26,4,2.2,2.4,1.5,0.05,6.6,meta-chlorophenylpiperazine 
+58,TFMPP,4296,Piperazines,Piperazines,stimulants,"Simmler et al., 2014b",17.5,> 100,5.2,13,>25,1.7,0.17,0.06,0.13,>6,0.73,>12,1.4,0.54,3.3,0.38,2.3,trifluoromethylphenylpiperazine 
+59,Methylphenidate,4158,Piperidines,methylphenidate,stimulants,"Luethi et al., 2018b",0.12,0.13,274,0.5,0.07,>22,>17,>13,>15,>8.9,>15,,>4.4,,,>5.0,>4.7,
+60,4-Methylmethylphenidate,71308139,Piperidines,methylphenidate,stimulants,"Luethi et al., 2018b",0.09,0.15,164,0.31,0.033,>22,9.9,>13,>15,6.5,10,,>4.4,,,>5,>4.7,
+61,Ethylphenidate,3080846,Piperidines,methylphenidate,stimulants,"Luethi et al., 2018b",0.81,0.61,257,4.9,0.081,>30,>25,>12,>15,>12,14,,>25,,,>15,>15,
+62,4-Fluoromethylphenidate,52944002,Piperidines,methylphenidate,stimulants,"Luethi et al., 2018b",0.04,0.15,40,0.22,0.04,>22,>17,>13,>15,>8.9,>15,,>4.4,,,>5,>4.7,
+63,"3,4-Dichloromethylphenidate",44418862,Piperidines,methylphenidate,stimulants,"Luethi et al., 2018b",0.01,0.05,12,0.0066,0.006,3,1.8,>13,>15,1.7,7,,>4.4,,,6.2,>14,
+64,Isopropylphenidate,68314762,Piperidines,methylphenidate,stimulants,"Luethi et al., 2018b",2.3,0.82,147,4.2,0.097,>23,>17,>13,>15,>11,>15,,>4.4,,,13,>14,
+65,Propylphenidate,91844466,Piperidines,methylphenidate,stimulants,"Luethi et al., 2018b",0.94,1.2,84,3.8,0.33,>22,17,>13,>15,>8.9,8.7,,>4.4,,,>5,>4.7,
+66,Ethylnaphthidate,91844468,Piperidines,methylphenidate,stimulants,"Luethi et al., 2018b",0.42,0.34,1.7,0.27,0.026,0.58,1.3,4.9,12,1.8,8.6,,>4.4,,,>5,>4.7,
+67,2-Diphenylmethylpiperidine,160506,Piperidines,,stimulants,"Simmler et al., 2014b",0.14,0.07,93,38,0.007,>30,>17,>12,5.5,>6,27,>12,>10,>16,>13,>10,>10,2-DPMP
+68,5-IT,55253543,Indole,Indole,stimulants,"Luethi et al., 2018c",0.04,0.68,1.3,1.3,0.92,10,11,0.38,3,5.4,1.7,,>25,,,0,0.36,5-(2-Aminopropyl)indole
+69,Diclofensine,68871,Other,Quinoline,stimulants,"Luethi et al., 2018a",2.5,4.5,4.8,0.027,0.028,0.096,1.2,0.079,0.5,0.14,1.2,,2.2,,,1.3,6.9,
+70,Cocaine,446220,Other,Tropane alkaloids,stimulants,"Luethi et al., 2018b",0.45,0.8,2.4,1.6,0.2,0.87,>17,>13,>15,>8.9,>15,>13.6,>4.4,>17.7,>14.4,>5,>4.7,
+71,D2PM,204386,Other,Pyrrolidine,stimulants,"Simmler et al., 2014b",0.41,0.86,38,8.2,0.07,8.4,>17,>12,>12,>6,>30,>12,>10,>16,>13,>10,>10,
