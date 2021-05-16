@@ -7,6 +7,8 @@ Outline:
 1. Supplementary files 
    “NPS hallucinogens pharmacological profile dataset.csv”
    “NPS stimulants pharmacological profile dataset.csv”
+   “Performance metrics of all classifiers trained for single target prediction.xlsx”
+   “Optimized hyperparameters of all classifiers trained for single target prediction.docx"
    * ML models (four classifiers and four fingerprints) on all targets
 2. Data preparation and preprocessing
 3. Classification models training and testing
