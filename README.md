@@ -4,9 +4,9 @@ For paper:
 ## Catch the next designer drug: A comparison of methods for prediction of in vitro pharmacological profiles using molecular fingerprint
 
 Outline:
-1. Data sheets
-   *
-   *
+1. Supplementary files 
+   “NPS hallucinogens pharmacological profile dataset.csv”
+   “NPS stimulants pharmacological profile dataset.csv”
    * ML models (four classifiers and four fingerprints) on all targets
 2. Data preparation and preprocessing
 3. Classification models training and testing
