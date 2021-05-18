@@ -12,7 +12,8 @@ Outline:
    * ML models (four classifiers and four fingerprints) on all targets
 2. Data preparation and preprocessing
 3. Classification models training and testing
-4. Clustering and analysis
+4. Clustering and analysis and comparison
+5. Multitarget prediction of pharmacological similar compound pairs
 
 
 code for manuscript
