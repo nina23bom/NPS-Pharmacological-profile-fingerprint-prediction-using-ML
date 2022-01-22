@@ -1,25 +1,5 @@
-# NPS-Pharmacological profile fingerprint prediction using ML
-
 For paper: 
-## Catch the next designer drug: A comparison of methods for prediction of in vitro pharmacological profiles using molecular fingerprint
+## Catch the next designer drug: bioactivity data derived pharmacological affinity fingerprints and performance in similarity searching and unsupervised clustering
 
-Outline:
-1. Supplementary files 
-   “NPS hallucinogens pharmacological profile dataset.csv”
-   “NPS stimulants pharmacological profile dataset.csv”
-   “Performance metrics of all classifiers trained for single target prediction.xlsx”
-   “Optimized hyperparameters of all classifiers trained for single target prediction.docx"
-   * ML models (four classifiers and four fingerprints) on all targets
-2. Data preparation and preprocessing
-3. Classification models training and testing
-4. Clustering and analysis and comparison
-5. Multitarget prediction of pharmacological similar compound pairs
-
-
-code for manuscript
-List of tasks:
+Files:
 1. 
-2. Comparison of closeness using different similarity measurements
-3. 
-4. Similarity based pharmacological acvitity prediction
-5. Classification model based pharmacological acvitity prediction
